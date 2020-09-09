@@ -1,0 +1,11 @@
+GAJI/CheckStatus.class
+GAJI/CheckstatusApplication.class
+GAJI/PolicyHandler.class
+GAJI/CheckStatusViewHandler.class
+GAJI/CheckStatusRepository.class
+GAJI/config/kafka/KafkaProcessor.class
+GAJI/AbstractEvent$1.class
+GAJI/AbstractEvent.class
+GAJI/CheckConfirmed.class
+GAJI/Deleted.class
+GAJI/Registered.class
